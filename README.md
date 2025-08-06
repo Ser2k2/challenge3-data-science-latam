@@ -9,7 +9,9 @@ A través de este EDA, se busca generar insights relevantes y visualizaciones es
 <h2>Estructura del Proyecto y Organización de los Archivos</h2>
 
 - TelecomX_LATAM_P2.ipynb
-- README.md  
+- README.md
+- Datos:
+  - datos_limpios.csv   
 
 <h2>Instrucciones para Ejecutar el Notebook en Google Colab</h2>
 
